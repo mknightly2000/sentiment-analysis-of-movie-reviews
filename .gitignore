@@ -209,3 +209,5 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python,macos
 
 .idea
+data.csv
+glove.6B.100d.txt
